@@ -23,7 +23,7 @@ Here's a definitive list of software that I use often for the best of both world
 * [HyperSwitch](https://bahoom.com/hyperswitch): Alt+Tab for Mac.
 * [TouchSwitcher](https://hazeover.com/touchswitcher.html): Use the MacBook touch bar for Alt+Tab.
 #### Window Management:
-* [Magnet](https://apps.apple.com/us/app/magnet/id441258766?mt=12) / [SizeUp](https://www.irradiatedsoftware.com/sizeup/): AeroSnap (Win+left/right to position windows) for Mac.
+* [Rectangle](https://rectangleapp.com/) / [Magnet](https://apps.apple.com/us/app/magnet/id441258766?mt=12) / [SizeUp](https://www.irradiatedsoftware.com/sizeup/): AeroSnap (Win+left/right to position windows) for Mac.
 * [HiddenMe](https://apps.apple.com/us/app/hiddenme/id467040476?mt=12): Hide desktop icons.
 #### Widgets:
 * [Übersicht](http://tracesof.net/uebersicht/): Place widgets on desktop.
