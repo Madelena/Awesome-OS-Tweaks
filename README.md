@@ -7,7 +7,7 @@ Here's a definitive list of software that I use often for the best of both world
 * [Karabiner](https://karabiner-elements.pqrs.org/): Reconfigure key combos to match Windows, e.g. hold Win for LaunchPad, Ctrl+Shift+Esc for Activity Monitor, swap Command and Control keys. (Or if you're really committed, use a keycap puller to swap the two keys on your MacBook like I do.)
 * [BetterTouchTool](https://folivora.ai/downloads): Custom gestures, etc for Mac.
 * [Synergy](https://symless.com/synergy) / [Sharemouse](https://www.sharemouse.com/) / [Barrier](https://github.com/debauchee/barrier): Use the same keyboard and mouse across a PC and a Mac.
-* [Paste](https://pasteapp.io/): Clipboard history for Mac.
+* [PasteNow](https://pastenow.app/) / [Paste](https://pasteapp.io/): Clipboard history for Mac.
 * [Unlox](https://unlox.it/): Unlock a Mac using a fingerprint sensor... on your iDevice. Also adds Win+L to lock computer.
 #### Taskbar and Dock:
 * [uBar](https://brawersoftware.com/products/ubar): Bring the Windows Taskbar to the Mac.
